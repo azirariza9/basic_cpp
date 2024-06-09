@@ -1,2 +1,3 @@
 # basic_cpp
-Learning Cpp through example programs
+Learning Cpp through various example programs
+
